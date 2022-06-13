@@ -1,0 +1,28 @@
+{
+  "name": "dio",
+  "version": "1.0.0",
+  "description": "Aqui vao ficar todos os projetos do bootcamp do santander",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiago195/Dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiago195/Dio/issues"
+  },
+  "homepage": "https://github.com/Tiago195/Dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
